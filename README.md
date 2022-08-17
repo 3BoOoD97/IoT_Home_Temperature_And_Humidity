@@ -2,12 +2,9 @@
 
 #  Home temperature and humidity
 
-###### tags: ` Lopy4` `Pycom` `Tutorials` `Node.js` `Dht11` `MQTT` `Datacake `
-
-> Student name: **Abdalrhman Dabor, Salah Dabor**
-Student username: **ad222uk, sd222uv** 
 
 
+[HackMd]:https://hackmd.io/yLvdeyJ_Sea2Z6ib5_B_yg?both
 
 
 ## :memo: Objective
