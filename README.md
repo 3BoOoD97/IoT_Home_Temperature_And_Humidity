@@ -4,9 +4,9 @@
 
 
 
-[HackMd]:https://hackmd.io/yLvdeyJ_Sea2Z6ib5_B_yg?both
 
 
+[HackMd](https://hackmd.io/yLvdeyJ_Sea2Z6ib5_B_yg?both).
 ## :memo: Objective
 The objective of this project is to show how to set up a system for measuring the temperature and humidity in real-time using Lopy4 and DHT11 and then connect Lopy4 to WIFI to display our sensor data on Datacake.
 The estimated time to finish the project is around 7h-14h
