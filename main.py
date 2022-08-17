@@ -34,7 +34,7 @@ while True:
  result = th.read()
  if result.is_valid():
 
-     #Save temperature &  humidity in variables
+     #Save temperature & humidity in variables
     temperature = result.temperature
     humidity = result.humidity
 
